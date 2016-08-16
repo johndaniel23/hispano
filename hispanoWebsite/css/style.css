@@ -1,0 +1,88 @@
+.jumbotron {
+   background-image: url('../lib/images/Students_Guitar_Band_of_Youth.jpg');
+   background-size: cover;
+   text-align: center;
+   background-position: 10% 10%;
+   height: 625px;
+   color: white;
+   font-size: 1.5em;
+   margin-top: 0px;
+}
+
+.jumbotron.about {
+  background-image: url('../lib/images/Graduating_students.jpg');
+  background-size: cover;
+  /*font-size: 40px;
+  font-color: purple;*/
+}
+
+.jumbotron.contact {
+  background-image: url('../lib/images/grad_images.jpg');
+  background-size: cover;
+  font-size: 40px;
+  font-color: red;
+}
+
+.jumbotron.Administrator {
+  background-image: url('../lib/images/admin_Folks.jpg');
+  background-size: cover;
+}
+
+.jumbotron.account {
+  background-image: url('../lib/images/University_Tower_dining_hall.jpg');
+  background-size: cover;
+}
+
+.jumbotron.student {
+    background-image: url('../lib/images/kids_studying.jpg');
+    background-size: cover;
+}
+
+
+.jumbotron h1 {
+  color: white;
+  font-size: 1.5em
+
+}
+
+.jumbotron h2 {
+  color: blue;
+  font-size: 1.5em
+}
+
+.jumbotron h3 {
+  color: purple;
+  font-size: 1.5em
+}
+
+.jumbotron h4 {
+  color: orange;
+  font-size: 1.5em
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+
+.padTop {
+  padding-top: 30px;
+
+}
+
+.font {
+  font-size: 80px;
+  color: blue;
+}
+
+.font1 {
+  color: red
+
+}
+
+.font2 {
+  color: yellow;
+  font-size: 100em;
+}

@@ -4,6 +4,6 @@
     "username": "root",
     "password": "sh1pr0ck",
     "port": 22,
-    "remotePath": "/usr/share/nginx/html/?????"",
+    "remotePath": "",
     "uploadOnSave": false
 }
